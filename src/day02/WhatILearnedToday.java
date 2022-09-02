@@ -9,6 +9,15 @@ public class WhatILearnedToday {
         System.out.println("Package is where we keep the classes");
         System.out.println("Class is where the code is written");
         System.out.println("it allows us to create and output");
+
+
+        String sr ="Hello";
+        String name = new StringBuilder(sr).reverse().toString();
+        System.out.println(name);
+
+        String name2 = "";
+        sr.
+
     }
 
 
